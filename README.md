@@ -7,3 +7,4 @@ It is an Android application that displays a list view of homeless shelters and 
 
 Currently, the information is hard-coded and not dynamic.
 
+Credit to https://www.youtube.com/watch?v=WRANgDgM2Zg&list=FLVmlHObXu53kOoYtDiv3l8g&index=10 with understanding how to implement a list view.
